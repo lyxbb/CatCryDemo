@@ -1,0 +1,6 @@
+C:\ProjectDemo\CatCryDemo\CatCryDemo\bin\Debug\CatCryDemo.exe
+C:\ProjectDemo\CatCryDemo\CatCryDemo\bin\Debug\CatCryDemo.pdb
+C:\ProjectDemo\CatCryDemo\CatCryDemo\obj\Debug\CatCryDemo.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\CatCryDemo\CatCryDemo\obj\Debug\CatCryDemo.exe
+C:\ProjectDemo\CatCryDemo\CatCryDemo\obj\Debug\CatCryDemo.pdb
+C:\ProjectDemo\CatCryDemo\CatCryDemo\obj\Debug\CatCryDemo.csprojResolveAssemblyReference.cache

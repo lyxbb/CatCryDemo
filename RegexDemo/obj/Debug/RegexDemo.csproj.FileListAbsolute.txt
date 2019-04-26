@@ -1,0 +1,9 @@
+C:\ProjectDemo\CatCryDemo\RegexDemo\bin\Debug\RegexDemo.exe
+C:\ProjectDemo\CatCryDemo\RegexDemo\bin\Debug\RegexDemo.pdb
+C:\ProjectDemo\CatCryDemo\RegexDemo\obj\Debug\RegexDemo.csprojResolveAssemblyReference.cache
+C:\ProjectDemo\CatCryDemo\RegexDemo\obj\Debug\RegexDemo.Form1.resources
+C:\ProjectDemo\CatCryDemo\RegexDemo\obj\Debug\RegexDemo.Properties.Resources.resources
+C:\ProjectDemo\CatCryDemo\RegexDemo\obj\Debug\RegexDemo.csproj.GenerateResource.Cache
+C:\ProjectDemo\CatCryDemo\RegexDemo\obj\Debug\RegexDemo.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\CatCryDemo\RegexDemo\obj\Debug\RegexDemo.exe
+C:\ProjectDemo\CatCryDemo\RegexDemo\obj\Debug\RegexDemo.pdb
